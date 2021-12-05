@@ -12,7 +12,7 @@
 <h2> About Me <img src = "https://media2.giphy.com/media/3GYmecuz4ncOc/giphy.gif?cid=ecf05e47fyedn0amteoh2pnrg54utfxrbxussi41b7arv4ha&rid=giphy.gif&ct=g" width = 100px align="center" > </h2>
 
 
-<img width="23%" align="right" alt="Github" src="https://media1.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif?cid=ecf05e47pvw1pns098h1i0bnq8bm3nuhxsg4nmus42pwb1gc&rid=giphy.gif&ct=g" />
+<img width="20%" align="right" alt="Github" src="https://media1.giphy.com/media/PAqjdPkJLDsmBRSYUp/giphy.gif?cid=ecf05e47pvw1pns098h1i0bnq8bm3nuhxsg4nmus42pwb1gc&rid=giphy.gif&ct=g" />
 
 - 🔭 I’m currently enrolled in Code fellows' Advanced Software Development intensive program.
 
